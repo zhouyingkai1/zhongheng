@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

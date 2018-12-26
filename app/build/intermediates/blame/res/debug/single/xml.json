@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]

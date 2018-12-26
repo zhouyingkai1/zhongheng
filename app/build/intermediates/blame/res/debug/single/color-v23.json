@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/086d9d63d8595a95e07342c1c136ccc4/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/zyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/083daa3da18dcbb84aeda3259a834d06/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

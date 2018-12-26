@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/launch_screen.png",
+        "source": "/Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/res/mipmap-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/logo.png",
+        "source": "/Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/zyk/Documents/众恒/react-native-dva/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
