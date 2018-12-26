@@ -1,8 +1,8 @@
-package com.zhongheng;
+package com.foodshiqu;
 
 import org.devio.rn.splashscreen.SplashScreen;
-import com.facebook.react.ReactActivity;
 
+import com.facebook.react.ReactActivity;
 public class MainActivity extends ReactActivity {
 
     /**

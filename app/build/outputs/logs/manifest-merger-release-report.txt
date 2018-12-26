@@ -4,11 +4,11 @@ ADDED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/And
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-splash-screen] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-14:12
 MERGED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-vector-icons] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/14cd28b793a16c743e1723b9f7c38594/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8f6f0c572ee7eeaef22a4447e64f966c/AndroidManifest.xml:10:1-18:12
 MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ae67b25e7439179684f3d71751750b69/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5c1be8e542b232a311b8fe252299e582/AndroidManifest.xml:2:1-9:12
@@ -18,6 +18,15 @@ MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/141c2089275745f04b48cfdbca6e0469/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ac6b6028e72e17649cb08dc3ddb09b04/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/9c754e4025105f01825a4d9b11aae17f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:17:1-30:12
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12
@@ -47,18 +56,36 @@ MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/c
 		ADDED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-splash-screen] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/14cd28b793a16c743e1723b9f7c38594/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/14cd28b793a16c743e1723b9f7c38594/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/06d5fadec883a30d82a574550a5bc3a3/AndroidManifest.xml:3:3-17
 MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/06d5fadec883a30d82a574550a5bc3a3/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1829a9103422c04e10196487582f462d/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1829a9103422c04e10196487582f462d/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
@@ -97,16 +124,16 @@ uses-sdk
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.54.2] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/5c832f0b6fe32afb2e7a62d8b7fd3714/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8c9f36558c0361f23f8405bb4ac1d7db/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/14cd28b793a16c743e1723b9f7c38594/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/14cd28b793a16c743e1723b9f7c38594/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:21:5-23:78
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8f6f0c572ee7eeaef22a4447e64f966c/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8f6f0c572ee7eeaef22a4447e64f966c/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ae67b25e7439179684f3d71751750b69/AndroidManifest.xml:5:5-7:41
@@ -123,8 +150,28 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gr
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ac6b6028e72e17649cb08dc3ddb09b04/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/9c754e4025105f01825a4d9b11aae17f/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/9c754e4025105f01825a4d9b11aae17f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml
@@ -149,9 +196,37 @@ ADDED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native
 		ADDED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:19:17-55
 	android:name
 		ADDED from [:react-native-image-picker] /Users/zyk/Documents/众恒/react-native-dva/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/release/AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d0275d7acd6c13bd4f3bc709636a0ff/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2321b746484dce6e8b0fffd27e924f20/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8aa156a1a49f1b1b127b5111da9873d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f3ded611226e4471ba70b5eff713182/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5315ac8d3227d4c49633bf427aa3d3c2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0aa0eed6c823c80954835cef845285b4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d7ed5be06a30b2f8038ad062913e6fbf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1ad620d6565ae83ea99808acd7a6c80e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0df1c58cc02bb8de9f91e8f51b0aa70d/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/zyk/Documents/众恒/react-native-dva/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f386a2c2051547c0ea5ce57d14a318b0/AndroidManifest.xml:26:13-58
